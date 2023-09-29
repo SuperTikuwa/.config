@@ -1,0 +1,1 @@
+/home/tikuwa/.asdf/completions/asdf.fish
